@@ -1,0 +1,15 @@
+C:\Users\hsyna\Desktop\Methods_Array_Lab\MethodsAndArrayLab\MethodsAndArrayLab\bin\Debug\net6.0\MethodsAndArrayLab.exe
+C:\Users\hsyna\Desktop\Methods_Array_Lab\MethodsAndArrayLab\MethodsAndArrayLab\bin\Debug\net6.0\MethodsAndArrayLab.deps.json
+C:\Users\hsyna\Desktop\Methods_Array_Lab\MethodsAndArrayLab\MethodsAndArrayLab\bin\Debug\net6.0\MethodsAndArrayLab.runtimeconfig.json
+C:\Users\hsyna\Desktop\Methods_Array_Lab\MethodsAndArrayLab\MethodsAndArrayLab\bin\Debug\net6.0\MethodsAndArrayLab.dll
+C:\Users\hsyna\Desktop\Methods_Array_Lab\MethodsAndArrayLab\MethodsAndArrayLab\bin\Debug\net6.0\MethodsAndArrayLab.pdb
+C:\Users\hsyna\Desktop\Methods_Array_Lab\MethodsAndArrayLab\MethodsAndArrayLab\obj\Debug\net6.0\MethodsAndArrayLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsyna\Desktop\Methods_Array_Lab\MethodsAndArrayLab\MethodsAndArrayLab\obj\Debug\net6.0\MethodsAndArrayLab.AssemblyInfoInputs.cache
+C:\Users\hsyna\Desktop\Methods_Array_Lab\MethodsAndArrayLab\MethodsAndArrayLab\obj\Debug\net6.0\MethodsAndArrayLab.AssemblyInfo.cs
+C:\Users\hsyna\Desktop\Methods_Array_Lab\MethodsAndArrayLab\MethodsAndArrayLab\obj\Debug\net6.0\MethodsAndArrayLab.csproj.CoreCompileInputs.cache
+C:\Users\hsyna\Desktop\Methods_Array_Lab\MethodsAndArrayLab\MethodsAndArrayLab\obj\Debug\net6.0\MethodsAndArrayLab.sourcelink.json
+C:\Users\hsyna\Desktop\Methods_Array_Lab\MethodsAndArrayLab\MethodsAndArrayLab\obj\Debug\net6.0\MethodsAndArrayLab.dll
+C:\Users\hsyna\Desktop\Methods_Array_Lab\MethodsAndArrayLab\MethodsAndArrayLab\obj\Debug\net6.0\refint\MethodsAndArrayLab.dll
+C:\Users\hsyna\Desktop\Methods_Array_Lab\MethodsAndArrayLab\MethodsAndArrayLab\obj\Debug\net6.0\MethodsAndArrayLab.pdb
+C:\Users\hsyna\Desktop\Methods_Array_Lab\MethodsAndArrayLab\MethodsAndArrayLab\obj\Debug\net6.0\MethodsAndArrayLab.genruntimeconfig.cache
+C:\Users\hsyna\Desktop\Methods_Array_Lab\MethodsAndArrayLab\MethodsAndArrayLab\obj\Debug\net6.0\ref\MethodsAndArrayLab.dll
